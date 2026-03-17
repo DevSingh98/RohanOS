@@ -1,0 +1,25 @@
+# --- RohanOS Compiled Binaries & Objects ---
+*.o
+*.elf
+*.img
+*.bin
+*.list
+*.map
+
+# --- macOS System Files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# --- Build & Output Directories ---
+build/
+bin/
+obj/
+
+# --- IDEs and Editor Backups ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
